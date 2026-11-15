@@ -1,0 +1,6 @@
+Użyłem VS Code
+Stworzył mi stoper z przyciskiem start/stop i reset
+Agent w najpierw poprosił o dostęp do moich plików później pytał się o uprawnienia
+w trakcie pisania kodu html
+Po przeklikaniu proces kod miałem gotowy.
+Wtedy tylko zapisałem go w folderze repozytorium i zrobiłem push
